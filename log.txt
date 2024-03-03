@@ -1,0 +1,14 @@
+mar 03, 2024 10:52:09 P. M. Serveis.Main createLog
+INFO: Mi primer log
+mar 03, 2024 11:00:20 P. M. Serveis.Main guardarLog
+INFO: Aqui un error info
+mar 03, 2024 11:00:37 P. M. Serveis.Main guardarLog
+INFO: Aqui un error info
+mar 03, 2024 11:01:21 P. M. Serveis.Main guardarLog
+INFO: Aqui un error info
+mar 03, 2024 11:02:26 P. M. Serveis.Main guardarLog
+INFO: Aqui un error info
+mar 03, 2024 11:02:41 P. M. Serveis.Main guardarLog
+INFO: Aqui un error info
+mar 03, 2024 11:02:41 P. M. Serveis.Main guardarLog
+SEVERE: Aqui un error severe
